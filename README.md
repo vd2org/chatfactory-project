@@ -2,7 +2,7 @@
 
 Project-repo for [ChatFactoryBot](https://t.me/ChatFactoryBot).
 
-This repo contains issues and boards related to project.
+This repo contains issues, boards and wiki related to project.
 
 No code will be here.
 
