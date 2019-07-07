@@ -4,8 +4,15 @@ Project-repo for [ChatFactoryBot](https://t.me/ChatFactoryBot).
 
 This repo contains issues, boards and wiki related to project.
 
-No code will be here.
+Wiki is open for everyone. You can also fix and improve translations. 
 
-## Translation files.
+**Welcome to contribute!**
 
-You can see translation files for the project in [this repo](https://github.com/vd2org/chatfabric-templates).
+## Navigator
+
+* [Wiki](https://github.com/vd2org/chatfactory-project/wiki)
+* [Issues](https://github.com/vd2org/chatfactory-project/issues)
+* [Main project board](https://github.com/vd2org/chatfactory-project/projects/1)
+* [YetAnotherBot's project board](https://github.com/vd2org/chatfactory-project/projects/2)
+* [Translations](https://github.com/vd2org/chatfabric-templates).
+
