@@ -14,5 +14,4 @@ Wiki is open for everyone. You can also fix and improve translations.
 * [Issues](https://github.com/vd2org/chatfactory-project/issues)
 * [Main project board](https://github.com/vd2org/chatfactory-project/projects/1)
 * [YetAnotherBot's project board](https://github.com/vd2org/chatfactory-project/projects/2)
-* [Translations](https://github.com/vd2org/chatfabric-templates).
-
+* [Translations](https://github.com/vd2org/chatfabric-templates)
